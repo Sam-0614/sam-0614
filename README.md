@@ -94,40 +94,9 @@ Hey future techies! 👋 I’m all about sharing knowledge and helping each othe
 
 - **Robotics Adventures**: So, picture this: I had a shiny new RC car, and instead of taking it for a spin, I thought, “What if I turned it into a fan?” Yup, I went full mad scientist and *broke that baby apart* for the motor! 🚗💥 Who knew making a battery-powered fan could lead to such a dramatic plot twist? But hey, sometimes you gotta sacrifice a little for the greater good! If I can pull this off, you totally can too!
 
-- **Join My Journey**: Got a cool project you want to share? Or maybe you’re stuck on something? Hit me up on [Discord](https://discord.gg/beq)! Let’s tackle challenges together!
+- **Join My Journey**: Got a cool project you want to share? Or maybe you’re stuck on something? Hit me up on [Discord](https://discord.gg/beJJbh7q)! Let’s tackle challenges together!
 
-### 🚀 Resources for You: Ready to Dive Into Robotics and Programming?
 
-Hey future techies! If you’re looking to level up your skills in robotics and programming, I’ve got some awesome resources for you. Check these out:
-
-- **Robotics Course by edX (Free Auditing)**: Wanna get your robot game on? This course from Columbia is like a boot camp for aspiring robot masters—no wallet necessary if you audit! [Link](https://www.edx.org/professional-certificate/columbiax-robotics)
-
-- **Robotics Stack Exchange**: Got a burning question or need some advice? This is the place to be! It’s like Reddit for robotics nerds—ask away and get help from fellow enthusiasts! [Link](https://robotics.stackexchange.com/)
-
-- **Robot Operating System (ROS) Wiki**: Dive into the world of ROS, the go-to platform for robot software. This wiki has all the deets you need to start building smart bots! [Link](http://wiki.ros.org/)
-
-- **Codecademy (Free Courses)**: Whether you’re a total newbie or looking to brush up your skills, Codecademy has you covered with interactive coding courses that won’t bore you to death! [Link](https://www.codecademy.com/)
-
-- **freeCodeCamp**: Learn to code for free with hands-on projects and challenges. Plus, you can earn certifications while you’re at it. Talk about a win-win! [Link](https://www.freecodecamp.org/)
-
-- **W3Schools**: Your go-to resource for all things web development! From HTML to CSS, get all the basics down and start building those sweet websites. [Link](https://www.w3schools.com/)
-
-- **SparkFun Tutorials**: Get your hands dirty with tons of fun electronics projects. SparkFun has tutorials that are easy to follow and perfect for beginners! [Link](https://learn.sparkfun.com/tutorials)
-
-- **Adafruit Learning System**: Want to create something cool? Adafruit’s got a whole library of tutorials to help you make awesome electronic projects! [Link](https://learn.adafruit.com/)
-
-- **Instructables**: This is like Pinterest for makers! Browse through countless DIY projects and learn to create just about anything. [Link](https://www.instructables.com/)
-
-- **GitHub**: Collaborate and share your code! GitHub is where all the cool kids in tech hang out, so dive in and start contributing to projects! [Link](https://github.com/)
-
-### 📚 Must-Read Books
-- **"Python Crash Course" by Eric Matthes**: A solid introduction to Python for anyone looking to jump into coding—like a crash course in pizza-making, but for Python! 🍕
-- **"Make: Electronics" by Charles Platt**: Hands-on electronics projects that will turn you into a circuitry wizard! Get ready to build and learn! 🧙‍♂️
-- **"Robotics: A Very Short Introduction" by Alan Winfield**: This one’s a quick read that’ll give you the 411 on robotics—perfect for your next coffee break! ☕
-- **"Arduino Workshop: A Hands-On Introduction with 65 Projects" by John Boxall**: If you’re into Arduino, this book is like your best bud—packed with cool projects to get you started! 🚀
-- **"Learning Python" by Mark Lutz**: A comprehensive guide that’ll take you from zero to hero in Python programming. Say goodbye to confusion and hello to coding! 🐍
-
-So there you have it! Dive in, explore, and let’s get building together! 🌟
 ---
 
 ## 🎉 Skills
@@ -234,11 +203,38 @@ A: I use tools like GitHub Projects and Trello for organization.
 
 ---
 
-## 📚 Additional Resources
-- [Python Documentation](https://www.python.org/doc/)
-- [Arduino Getting Started](https://www.arduino.cc/en/Guide/HomePage)
-- [IoT Fundamentals](https://www.iotforall.com/)
+## 📚 Additional Resources for You: Ready to Dive Into Robotics and Programming?
 
+Hey! If you’re looking to level up your skills in robotics and programming, I’ve got some awesome resources for you. Check these out:
+
+- **Robotics Course by edX (Free Auditing)**: Wanna get your robot game on? This course from Columbia is like a boot camp for aspiring robot masters—no wallet necessary if you audit! [Link](https://www.edx.org/professional-certificate/columbiax-robotics)
+
+- **Robotics Stack Exchange**: Got a burning question or need some advice? This is the place to be! It’s like Reddit for robotics nerds—ask away and get help from fellow enthusiasts! [Link](https://robotics.stackexchange.com/)
+
+- **Robot Operating System (ROS) Wiki**: Dive into the world of ROS, the go-to platform for robot software. This wiki has all the deets you need to start building smart bots! [Link](http://wiki.ros.org/)
+
+- **Codecademy (Free Courses)**: Whether you’re a total newbie or looking to brush up your skills, Codecademy has you covered with interactive coding courses that won’t bore you to death! [Link](https://www.codecademy.com/)
+
+- **freeCodeCamp**: Learn to code for free with hands-on projects and challenges. Plus, you can earn certifications while you’re at it. Talk about a win-win! [Link](https://www.freecodecamp.org/)
+
+- **W3Schools**: Your go-to resource for all things web development! From HTML to CSS, get all the basics down and start building those sweet websites. [Link](https://www.w3schools.com/)
+
+- **SparkFun Tutorials**: Get your hands dirty with tons of fun electronics projects. SparkFun has tutorials that are easy to follow and perfect for beginners! [Link](https://learn.sparkfun.com/tutorials)
+
+- **Adafruit Learning System**: Want to create something cool? Adafruit’s got a whole library of tutorials to help you make awesome electronic projects! [Link](https://learn.adafruit.com/)
+
+- **Instructables**: This is like Pinterest for makers! Browse through countless DIY projects and learn to create just about anything. [Link](https://www.instructables.com/)
+
+- **GitHub**: Collaborate and share your code! GitHub is where all the cool kids in tech hang out, so dive in and start contributing to projects! [Link](https://github.com/)
+
+### 📚 Must-Read Books
+- **"Python Crash Course" by Eric Matthes**: A solid introduction to Python for anyone looking to jump into coding—like a crash course in pizza-making, but for Python! 🍕
+- **"Make: Electronics" by Charles Platt**: Hands-on electronics projects that will turn you into a circuitry wizard! Get ready to build and learn! 🧙‍♂️
+- **"Robotics: A Very Short Introduction" by Alan Winfield**: This one’s a quick read that’ll give you the 411 on robotics—perfect for your next coffee break! ☕
+- **"Arduino Workshop: A Hands-On Introduction with 65 Projects" by John Boxall**: If you’re into Arduino, this book is like your best bud—packed with cool projects to get you started! 🚀
+- **"Learning Python" by Mark Lutz**: A comprehensive guide that’ll take you from zero to hero in Python programming. Say goodbye to confusion and hello to coding! 🐍
+
+So there you have it! Dive in, explore, and let’s get building together! 🌟
 ---
 
 ## 🌍 Life Hacks (Because Why Not?)
