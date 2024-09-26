@@ -17,8 +17,6 @@ So awesome to have you here! I'm **Samarth**, a robotics and programming geek, r
 ## 👤 A Bit About Me
 Right now, I’m all about building cool IoT gadgets and playing with robots! I’ve got a solid grip on coding and hardware, and I'm always up for a fun challenge.
 
-- **Location:** [Chhatarpur (M.P.)] 🌍
-- **Education:** [High School Graduate] from [SOE] 🎓
 - **What I’m Diving Into:**
   - Getting my hands dirty with Machine Learning in Python 🤖
   - Figuring out Docker and Kubernetes for some container magic 🐳
@@ -179,14 +177,6 @@ arm.grab()
 
 ---
 
-## ❓ FAQ (Fun Asked Questions)
-**Q: What languages do you vibe with?**  
-A: I’m all about Python and C++, but I’m always down to learn something new!
-
-**Q: How do you manage your projects?**  
-A: I use tools like GitHub Projects and Trello for organization.
-
----
 
 ## 💬 What People Are Saying
 > "Sam's passion for robotics and coding is next level!" – Happy Mentor
@@ -195,46 +185,7 @@ A: I use tools like GitHub Projects and Trello for organization.
 
 > "Working with Sam on the Smart Home Automation project was a fantastic experience. His insights and skills truly elevated our work." – [Collaborator Name](link)
 
----
 
-## 📅 Upcoming Events
-- **[Local Robotics Competition](link)** – Date: [soon]
-- **[IoT Workshop](link)** – Date: [soon]
-
----
-
-## 📚 Additional Resources for You: Ready to Dive Into Robotics and Programming?
-
-Hey! If you’re looking to level up your skills in robotics and programming, I’ve got some awesome resources for you. Check these out:
-
-- **Robotics Course by edX (Free Auditing)**: Wanna get your robot game on? This course from Columbia is like a boot camp for aspiring robot masters—no wallet necessary if you audit! [Link](https://www.edx.org/professional-certificate/columbiax-robotics)
-
-- **Robotics Stack Exchange**: Got a burning question or need some advice? This is the place to be! It’s like Reddit for robotics nerds—ask away and get help from fellow enthusiasts! [Link](https://robotics.stackexchange.com/)
-
-- **Robot Operating System (ROS) Wiki**: Dive into the world of ROS, the go-to platform for robot software. This wiki has all the deets you need to start building smart bots! [Link](http://wiki.ros.org/)
-
-- **Codecademy (Free Courses)**: Whether you’re a total newbie or looking to brush up your skills, Codecademy has you covered with interactive coding courses that won’t bore you to death! [Link](https://www.codecademy.com/)
-
-- **freeCodeCamp**: Learn to code for free with hands-on projects and challenges. Plus, you can earn certifications while you’re at it. Talk about a win-win! [Link](https://www.freecodecamp.org/)
-
-- **W3Schools**: Your go-to resource for all things web development! From HTML to CSS, get all the basics down and start building those sweet websites. [Link](https://www.w3schools.com/)
-
-- **SparkFun Tutorials**: Get your hands dirty with tons of fun electronics projects. SparkFun has tutorials that are easy to follow and perfect for beginners! [Link](https://learn.sparkfun.com/tutorials)
-
-- **Adafruit Learning System**: Want to create something cool? Adafruit’s got a whole library of tutorials to help you make awesome electronic projects! [Link](https://learn.adafruit.com/)
-
-- **Instructables**: This is like Pinterest for makers! Browse through countless DIY projects and learn to create just about anything. [Link](https://www.instructables.com/)
-
-- **GitHub**: Collaborate and share your code! GitHub is where all the cool kids in tech hang out, so dive in and start contributing to projects! [Link](https://github.com/)
-
-### 📚 Must-Read Books
-- **"Python Crash Course" by Eric Matthes**: A solid introduction to Python for anyone looking to jump into coding—like a crash course in pizza-making, but for Python! 🍕
-- **"Make: Electronics" by Charles Platt**: Hands-on electronics projects that will turn you into a circuitry wizard! Get ready to build and learn! 🧙‍♂️
-- **"Robotics: A Very Short Introduction" by Alan Winfield**: This one’s a quick read that’ll give you the 411 on robotics—perfect for your next coffee break! ☕
-- **"Arduino Workshop: A Hands-On Introduction with 65 Projects" by John Boxall**: If you’re into Arduino, this book is like your best bud—packed with cool projects to get you started! 🚀
-- **"Learning Python" by Mark Lutz**: A comprehensive guide that’ll take you from zero to hero in Python programming. Say goodbye to confusion and hello to coding! 🐍
-
-So there you have it! Dive in, explore, and let’s get building together! 🌟
 ---
 
 ## 🌍 Life Hacks (Because Why Not?)
@@ -253,19 +204,6 @@ I’m always up for a chat about tech, robotics, or just life in general. Here�
 - **Discord:** [Join me on Discord](https://discord.gg/beJJbh7q) 💬
 
 Feel free to hit me up anytime—I’d love to hear from you!
-
----
-
-## ✨ Favorite Quote
-"Life is either a daring adventure or nothing at all." – Helen Keller
-
----
-
-## 😂 Meme of the Day
-## 
-<div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRuNzFjMXFhZzBicmpjcmpiaTVqdTB4OGMwczNnYmNmbDZ6dG56aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qd7F5NcMFcTio/giphy.gif" alt="MEME" />
-</div>
 
 ---
 
