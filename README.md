@@ -14,6 +14,10 @@ So awesome to have you here! I'm **Samarth**, a robotics and programming geek, r
 
 ---
 
+[![An image of @sam0614's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sam0614)](https://holopin.io/@sam0614)
+
+---
+
 ## 👤 A Bit About Me
 Right now, I’m all about building cool IoT gadgets and playing with robots! I’ve got a solid grip on coding and hardware, and I'm always up for a fun challenge.
 
